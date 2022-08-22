@@ -1,0 +1,48 @@
+body{
+    font-family: 'Old Standard TT', serif;
+    
+}
+
+.donation-kid{
+    width: 100%;
+    height: 900px;
+}
+.donation-text{
+    width: 60%;
+    position: absolute;
+    top: 10%;
+    padding-left: 3%;
+    color: white;
+    
+}
+.donation-text h1{
+      font-size: 90px;
+      text-align: center;
+      font-weight: bold;
+}
+
+
+#text-style{
+    width: 65%;
+    position: absolute;
+    text-align: center;
+    font-size: 28px;
+    padding-left: 10%;
+    top: 45%;
+    color: white;
+    
+}
+.link-button-part{
+    margin-top: 25%;
+    margin-left: 40%;
+}
+.link-button{
+   
+    text-decoration: none;
+    background-image: linear-gradient(orange , Tomato);
+    color: white;
+    font-size: 190%;
+    padding: 15px 45px;  
+    border-radius: 15px;
+    
+}
