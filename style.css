@@ -188,3 +188,55 @@ body{
     padding: 15px 45px;  
     border-radius: 8px;
 }
+.flexible{
+   
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   flex-wrap: wrap;
+   
+}
+.holding-container{
+    width: 100%;
+    margin-top: 25%;
+    display: flex;
+   
+}
+.mission{
+   flex: 1;
+   background-color: #7dc8ca;
+   position: relative;
+   margin: 30px 10px;
+   width: 20px;
+   border-radius: 20px;
+   margin-right: 40px;
+   margin-left: 45px;
+}
+.vision{
+    flex: 1;
+    background-color: lightsteelblue;
+    position: relative;
+    margin: 30px 10px ;
+    width: 20px;
+    border-radius: 20px;
+    margin-right: 40px;
+    margin-left: 45px;
+}
+.goals{
+    flex: 1;
+    background-color: rgb(240, 156, 168);
+    position: relative;
+    margin: 30px 10px;
+    width: 20px;
+    border-radius: 20px;
+    margin-right: 40px;
+    margin-left: 45px;
+}
+.images-size img{
+    width: 10%;
+    padding-top: 20px;
+    margin-left: 5%;
+ }
+ .left-side{
+     margin-left: 5%;
+ }
